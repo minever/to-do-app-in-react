@@ -19,5 +19,5 @@ Step 4:
 
 ### `npm start`
 
-## The published To-do App:
+## The published To do App:
 https://minever.github.io/to-do-app-in-react
